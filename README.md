@@ -8,7 +8,7 @@ The dashboard allows users to explore sales insights using dynamic filters and v
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard-dashboard.png)
 
 ---
 
